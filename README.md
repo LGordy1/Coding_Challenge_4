@@ -1,2 +1,3 @@
 # Coding Challenge
-Coding Challenge 4 Disounts
+Coding Challenge #4 - Discounts
+
